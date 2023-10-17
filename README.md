@@ -1,4 +1,4 @@
-The project tell you the if you are drowsy of or not by detecing your eyes expression using the camera of your device.
+The project tell you the if you are drowsy by detecing your eyes expression using the camera of your device.
 
 It's an openCV project to detect the drowsiness using Python and dliib
 
